@@ -1,6 +1,6 @@
 ---
 title: Raspberry Pi smoke detector
-date: 2020-12-27 12:23:11 +0700
+date: 2020-12-27 12:23:12 +0800
 categories: [Electronics]
 tags: [electronics, raspberry pi, python]
 ---

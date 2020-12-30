@@ -1,6 +1,6 @@
 ---
 title: Turn on/off a Raspberry Pi with a push button using gpio-shutdown
-date: 2020-12-25 11:34:43 +0700
+date: 2020-12-25 11:34:44 +0800
 categories: [Electronics]
 tags: [electronics, raspberry pi]
 ---

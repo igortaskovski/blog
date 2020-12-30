@@ -1,6 +1,6 @@
 ---
 title: Removing Time Machine local backups on macOS Mojave
-date: 2020-12-28 16:27:21 +0700
+date: 2020-12-28 16:27:25 +0800
 categories: [macOS]
 tags: [macos]
 ---

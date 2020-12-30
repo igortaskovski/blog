@@ -1,6 +1,6 @@
 ---
 title: Nginx config for a Jekyll site
-date: 2018-09-11 21:32:11 +0800
+date: 2018-09-11 21:32:12 +0800
 categories: [Deployment]
 tags: [deployment, nginx, jekyll]
 ---

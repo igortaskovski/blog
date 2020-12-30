@@ -1,6 +1,6 @@
 ---
 title: Running a Python script on startup using Systemd
-date: 2020-12-27 16:53:11 +0700
+date: 2020-12-27 16:53:13 +0800
 categories: [Linux]
 tags: [linux, raspberry pi]
 ---

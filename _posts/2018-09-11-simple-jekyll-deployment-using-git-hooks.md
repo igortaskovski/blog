@@ -1,6 +1,6 @@
 ---
 title: Simple Jekyll deployment using Git hooks
-date: 2018-09-11 19:52:10 +0800
+date: 2018-09-11 19:52:11 +0800
 categories: [Deployment]
 tags: [deployment, jekyll, nginx, git hooks]
 ---
