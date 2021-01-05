@@ -97,3 +97,5 @@ Now we can start the Rails server
   rails s
 {% endhighlight %}
 
+And we should see a card like this:
+![relay](/assets/img/2020-12-02/tailwind-card.png)
